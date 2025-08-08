@@ -23,7 +23,7 @@ Staphylococcus_haemolyticus, Veillonella_montpellierensis,
 Alistipes_finegoldii, Gardnerella_vaginalis, Mycoplasma_hominis,
 Mobiluncus_mulieris, Prevotella_buccalis and Sneathia_sanguinegens.
 
-Package documentation an use-case is available [here](https://mall-machine-learning-in-live-sciences.github.io/VIBES-docs/).
+Package documentation an use-case is available [here](https://mall-lab.github.io/VIBES-docs/).
 
 ## Citation
 
