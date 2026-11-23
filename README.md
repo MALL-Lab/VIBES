@@ -1,6 +1,11 @@
 # VIBES - VagInal Bacterial subtyping using machine learning for Enhanced classification of bacterial vaginosiS
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10309596.svg)](https://doi.org/10.5281/zenodo.10309596)
+[![GitHub release](https://img.shields.io/github/v/release/MALL-Lab/VIBES?label=release)](https://github.com/MALL-Lab/VIBES/releases)
+![GitHub last commit](https://img.shields.io/github/last-commit/MALL-Lab/VIBES)
+![License](https://img.shields.io/github/license/MALL-Lab/VIBES)
+![Maintenance](https://img.shields.io/badge/Maintenance-Actively%20Maintained-brightgreen)
+[![MALL Lab](https://img.shields.io/badge/MALL-Lab-233452)](https://mall-lab.github.io/)
 
 `VIBES` is a pretrained Elastic Net (glmnet) algorithm for classifying
 the vaginal microbiome into clusters of biological significance due to
